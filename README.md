@@ -25,8 +25,6 @@ https://assistant-jarvis-node.herokuapp.com/
 
 ## Getting Started
 
-To know the steps to install and run the project see [INSTALL.md](https://github.com/Harkishen-Singh/Jarvis-personal-assistant/blob/master/INSTALL.md)
-
 **Starting Jarvis in development mode**
 
 Installation:
@@ -40,10 +38,7 @@ Run Jarvis:
 1. Run service: `make run`
 2. Run the desktop app: `make views`
 
-To get started with your contributions for Jarvis-personal-assistant see [CONTRBUTING.md](https://github.com/Harkishen-Singh/Jarvis-personal-assistant/blob/master/CONTRIBUTING.md)
 
-### Explanatory Video
-[![Jarvis explanatory video](https://files.gitter.im/Harkishen-Singh/QIzs/Screenshot-_38_.png)](https://youtu.be/jztI_iN82RY)
 
 ## What Jarvis can do?
 
@@ -55,9 +50,9 @@ As a personal assistant, Jarvis assists the end-user with day-to-day activities 
 
 The project aims to develop a personal-assistant for Linux-based systems. Jarvis draws its inspiration from virtual assistants like Cortana for Windows, and Siri for iOS. It has been designed to provide a user-friendly interface for carrying out a variety of tasks by employing certain well-defined commands.
 
-This is the desktop version of jarvis personal assistant. Click [here](http://github.com/Harkishen-Singh/Jarvis-Personal-Assistant) to view the repository of server.
+This is the desktop version of jarvis personal assistant. Click [here](https://github.com/sumanth2727/CS-541-project) to view the repository of server.
 
-[Installation Instructions](https://github.com/muskankhedia/Jarvis-Desktop/blob/master/INSTALL.md)
+[
 
 ## :wrench: Techology stack
 * **Frontend** AngularJS,ElectronJS
